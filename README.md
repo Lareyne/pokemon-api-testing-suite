@@ -1,4 +1,4 @@
-# Pokémon API Testing Project
+# PokeAPI Testing Project
 
 A Postman project built to learn and demonstrate the fundamentals of API testing using the public PokeAPI. This project tests how a system responds to correct data, filtered data, and user errors.
 
