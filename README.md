@@ -12,8 +12,8 @@ A Postman project built to learn and demonstrate the fundamentals of API testing
 ## How To Run This Project
 1. Download the Collection: Download the Pokemon API Testing.postman_collection.json file from this repository to your local machine.
 2. Import into Postman: Open Postman, click the Import button in the top-left corner of your workspace sidebar, and upload the downloaded .json file.
-3. Open the Runner: Hover over the imported PokeAPI Testing Project folder in your left sidebar, click the three dots (...), and select Run Collection.
-4. Execute the Tests: In the functional runner configuration tab that opens, click the blue Run PokeAPI Testing Project button.
+3. Open the Runner: Hover over the imported PokeAPI Testing Project folder in your left sidebar, click the three dots (...), and select Run.
+4. Execute the Tests: In the functional runner configuration tab that opens, click the Start Run button.
 5. Verify the Results: Review the automated test results page to verify that all functional, performance, and boundary checks complete successfully with green status pass marks.
 
 
