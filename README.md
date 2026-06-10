@@ -10,6 +10,13 @@ A Postman project built to learn and demonstrate the fundamentals of API testing
 * **Speed and Performance Testing:** Sets an automated timer to verify that the server responds quickly to ensure a good user experience.
 
 ## How To Run This Project
-1. Download the `Pokemon API Testing.postman_collection.json` file from this repository.
-2. Open Postman, click **Import** in the top-left corner, and select the downloaded file.
-3. Click on the folder name on the left side and select **Run Collection** to watch all the tests automatically run at once.
+1. Download the Collection: Download the Pokemon API Testing.postman_collection.json file from this repository to your local machine.
+2. Import into Postman: Open Postman, click the Import button in the top-left corner of your workspace sidebar, and upload the downloaded .json file.
+3. Open the Runner: Hover over the imported PokeAPI Testing Project folder in your left sidebar, click the three dots (...), and select Run Collection.
+4. Execute the Tests: In the functional runner configuration tab that opens, click the blue Run PokeAPI Testing Project button.
+5. Verify the Results: Review the automated test results page to verify that all functional, performance, and boundary checks complete successfully with green status pass marks.
+
+
+
+
+
