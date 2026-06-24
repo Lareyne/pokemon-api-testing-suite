@@ -3,7 +3,7 @@
 A Postman project built to learn and demonstrate the fundamentals of API testing using the public PokeAPI. This project tests how a system responds to correct data, filtered data, and user errors.
 
 ## 📊 Test Results Evidence
-![Postman Test Results](postman_results.png)
+![Postman Test Results]([postman_results.png](https://github.com/Lareyne/pokemon-api-testing-suite/blob/main/Postman%20Results.png))
 
 ## What This Project Demonstrates:
 * **Successful Data Retrieval (Positive Test):** Confirms that searching for a valid Pokémon (like Pikachu) successfully connects to the server and returns the correct 200 OK status code and database information.
