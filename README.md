@@ -3,7 +3,7 @@
 A Postman project built to learn and demonstrate the fundamentals of API testing using the public PokeAPI. This project tests how a system responds to correct data, filtered data, and user errors.
 
 ## What This Project Demonstrates:
-* **Successful Data Retrieval:** Confirms that searching for a valid Pokémon (like Pikachu or Dragonite) successfully connects to the server and returns the correct information.
+* **Successful Data Retrieval:** Confirms that searching for a valid Pokémon (like Pikachu) successfully connects to the server and returns the correct information.
 * **Error and Edge-Case Handling:** Tests how the system handles mistakes by intentionally searching for a non-existent Pokémon and confirming the server safely rejects it with a "404 Not Found" error.
 * **Filtering and Sorting Results:** Uses search parameters to limit a list of Pokémon to exactly 5 results, proving how websites handle large databases.
 * **Page Navigation (Pagination):** Uses page controls to skip the first 5 records and view the next set, showing how website pages function.
